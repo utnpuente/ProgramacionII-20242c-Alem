@@ -1,31 +1,31 @@
-# Laboratorio 1 - Cuatrimestre 1 - Alem
-Archivos de la materia Laboratorio I - Alem - Primer Cuatrimestre - 2024
+# Progrmaci 2 - Cuatrimestre 2 - Alem
+Archivos de la materia Programaci 2 - Alem - Segundo Cuatrimestre - 2024
 
-![portada](https://i.imgur.com/E4q1xJp.jpg)
+![portada](https://i.imgur.com/cmBVjmR.png)
 
 ## CodeBlocks
 
-CodeBlocks es un entorno de desarrollo integrado (IDE) de c贸digo abierto y multiplataforma que soporta m煤ltiples compiladores, incluyendo GCC, Clang y Visual C++. Es compatible con Windows, Linux y macOS.
+CodeBlocks es un entorno de desarrollo integrado (IDE) de cigo abierto y multiplataforma que soporta mtiples compiladores, incluyendo GCC, Clang y Visual C++. Es compatible con Windows, Linux y macOS.
 
-### Instalaci贸n CodeBlocks
+### Instalaci CodeBlocks
 
-1. Descargar el instalador de CodeBlocks desde el siguiente [link](http://www.codeblocks.org/downloads/26) (Descargar la versi贸n con MinGW)
+1. Descargar el instalador de CodeBlocks desde el siguiente [link](http://www.codeblocks.org/downloads/26) (Descargar la versi con MinGW)
 2. Ejecutar el instalador
-3. Seleccionar la opci贸n `CodeBlocks` y `MinGW`
+3. Seleccionar la opci `CodeBlocks` y `MinGW`
 4. Instalar
 
 ### Videos de ayuda
 
-- [Instalaci贸n de CodeBlocks](https://www.youtube.com/watch?v=uMWj35URnpU)
+- [Instalaci de CodeBlocks](https://www.youtube.com/watch?v=uMWj35URnpU)
 - [CodeBlocks Modo Oscuro](https://www.youtube.com/watch?v=HXkuiC2H5wQ)
 - [Primer programa](https://www.youtube.com/watch?v=-JRl88Gh8-g)
 
 
 ## Visual Studio Code
 
-Visual Studio Code es un editor de c贸digo fuente desarrollado por Microsoft. Es compatible con Windows, Linux y macOS.
+Visual Studio Code es un editor de cigo fuente desarrollado por Microsoft. Es compatible con Windows, Linux y macOS.
 
-##### instalaci贸n Visual Studio Code
+##### instalaci Visual Studio Code
 
 1. Descargar el instalador de Visual Studio Code desde el siguiente [link](https://code.visualstudio.com/download)
 2. Ejecutar el instalador
@@ -34,27 +34,27 @@ Visual Studio Code es un editor de c贸digo fuente desarrollado por Microsoft. Es
 ### Isntalar extensiones de Visual Studio Code
 
 1. Abrir Visual Studio Code
-2. Ir a la pesta帽a de extensiones
+2. Ir a la pesta de extensiones
 3. Buscar e instalar las siguientes extensiones:
    - C/C++
    - Code Runner
    - C++ Intellisense
 
-### Instalaci贸n de MinGW
+### Instalaci de MinGW
 
 1. Descargar el instalador de MinGW desde el siguiente [link](https://sourceforge.net/projects/mingw-w64/)
 2. Ejecutar el instalador
-3. Seleccionar la opci贸n `mingw32-base` y `mingw32-gcc-g++`
+3. Seleccionar la opci `mingw32-base` y `mingw32-gcc-g++`
 4. Instalar
 
 #### Videos de ayuda
 
-- [Instalaci贸n de Visual Studio Code](https://www.youtube.com/watch?v=iPvvbNVisfU)
+- [Instalaci de Visual Studio Code](https://www.youtube.com/watch?v=iPvvbNVisfU)
 
 
 ## Pastebin
 
-Se trata de una herramienta que permite compartir c贸digo de manera sencilla y r谩pida.
+Se trata de una herramienta que permite compartir cigo de manera sencilla y r爌ida.
 
 ### Crear una cuenta en Pastebin
 
@@ -62,9 +62,9 @@ Se trata de una herramienta que permite compartir c贸digo de manera sencilla y r
 2. Completar los datos requeridos
 3. Crear cuenta
 
-### Comparir c贸digo en Pastebin
+### Comparir cigo en Pastebin
 
 1. Ingresar al siguiente [link](https://pastebin.com/)
-2. Pegar el c贸digo
-3. Seleccionar la opci贸n de `Create New Paste`
+2. Pegar el cigo
+3. Seleccionar la opci de `Create New Paste`
 4. Compartir el link generado
