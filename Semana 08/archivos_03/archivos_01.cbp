@@ -34,11 +34,17 @@
 		</Compiler>
 		<Unit filename="archivoArticulo.cpp" />
 		<Unit filename="archivoArticulo.h" />
+		<Unit filename="archivoVenta.cpp" />
+		<Unit filename="archivoVenta.h" />
 		<Unit filename="articulo.cpp" />
 		<Unit filename="articulo.h" />
+		<Unit filename="fecha.cpp" />
+		<Unit filename="fecha.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="menu.cpp" />
 		<Unit filename="menu.h" />
+		<Unit filename="venta.cpp" />
+		<Unit filename="venta.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
