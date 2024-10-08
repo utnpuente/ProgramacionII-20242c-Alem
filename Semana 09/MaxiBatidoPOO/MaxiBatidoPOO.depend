@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1727809039 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 09\maxibatidopoo\bidon.cpp
+	<iostream>
+	"Bidon.h"
+
+1727808987 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 09\maxibatidopoo\bidon.h
+	<string>
+
+1727809052 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 09\maxibatidopoo\main.cpp
+	<iostream>
+	"Bidon.h"
+
