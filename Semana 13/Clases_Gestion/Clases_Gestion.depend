@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1729601764 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 12\clases_gestion\main.cpp
+	<iostream>
+	"PrincipalMenu.h"
+	"Menu.h"
+
+1729601643 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 12\clases_gestion\principalmenu.cpp
+	<iostream>
+	"PrincipalMenu.h"
+
+1729601635 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 12\clases_gestion\principalmenu.h
+	"ArticuloMenu.h"
+	"VentaMenu.h"
+	"Menu.h"
+
+1729601088 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 12\clases_gestion\articulomenu.h
+	"Menu.h"
+
+1729601144 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 12\clases_gestion\articulomenu.cpp
+	<iostream>
+	"ArticuloMenu.h"
+
+1729601125 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 12\clases_gestion\ventamenu.h
+	"Menu.h"
+
+1729599452 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 12\clases_gestion\ventamenu.cpp
+	<iostream>
+	"VentaMenu.h"
+
+1729602034 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 12\clases_gestion\menu.h
+	<iostream>
+
+1729601693 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-tapalque\semana 12\clases_gestion\menu.cpp
+	<iostream>
+	"Menu.h"
+
+1729601144 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 13\clases_gestion\articulomenu.cpp
+	<iostream>
+	"ArticuloMenu.h"
+
+1729601088 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 13\clases_gestion\articulomenu.h
+	"Menu.h"
+
+1729602159 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 13\clases_gestion\menu.h
+	<iostream>
+
+1729601949 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 13\clases_gestion\main.cpp
+	<iostream>
+	"PrincipalMenu.h"
+	"Menu.h"
+
+1729602120 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 13\clases_gestion\principalmenu.h
+	"ArticuloMenu.h"
+	"VentaMenu.h"
+	"Menu.h"
+
+1729601125 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 13\clases_gestion\ventamenu.h
+	"Menu.h"
+
+1729601693 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 13\clases_gestion\menu.cpp
+	<iostream>
+	"Menu.h"
+
+1729602125 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 13\clases_gestion\principalmenu.cpp
+	<iostream>
+	"PrincipalMenu.h"
+
+1729599452 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 13\clases_gestion\ventamenu.cpp
+	<iostream>
+	"VentaMenu.h"
+
+1730192473 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 13\clases_gestion\articulo.cpp
+	<iostream>
+	"Articulo.h"
+	<string.h>
+
+1730192135 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 13\clases_gestion\articulo.h
+	<string>
+
+1730192695 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 13\clases_gestion\ventaarchivo.cpp
+	<iostream>
+	"VentaArchivo.h"
+	"Venta.h"
+
+1730192993 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 13\clases_gestion\ventaarchivo.h
+	<string>
+	"Venta.h"
+
+1730121433 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 13\clases_gestion\venta.h
+	"Fecha.h"
+
+1730193209 c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 13\clases_gestion\fecha.h
+	<string>
+
+1730192289 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 13\clases_gestion\fecha.cpp
+	<iostream>
+	<string>
+	<ctime>
+	"Fecha.h"
+
+1730193200 source:c:\users\agome\onedrive - frgp.utn.edu.ar\utn\tutoria\laboratorio ii\2004\repositorios\programacionii-20242c-alem\semana 13\clases_gestion\venta.cpp
+	<iostream>
+	"Venta.h"
+	"Fecha.h"
+
